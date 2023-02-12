@@ -1,0 +1,9 @@
+User: user
+card_number: 10000
+user_id: 121312
+Balance: 81000
+pin code: 1234
+phone number: []
+transactions: []
+Наличных снято, в последний раз: 1000
+
